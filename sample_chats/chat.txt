@@ -1,0 +1,12 @@
+User: Hi AI, do you know about Bangladesh?
+AI: Yes! Bangladesh is in South Asia.
+User: What is its capital?
+AI: Dhaka is the capital.
+User: Is it a big city?
+AI: Yes, it's very crowded and busy.
+User: What language do people speak there?
+AI: They speak Bengali (Bangla).
+User: What is Bangladesh famous for?
+AI: It's famous for rivers, Sundarbans, and garments.
+User: Do you like Bangladesh?
+AI: Yes! It’s full of culture and beauty.
